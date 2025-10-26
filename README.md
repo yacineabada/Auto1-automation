@@ -1,10 +1,8 @@
 # Auto1-Task
-This is a test assignment for the junior javascript interview at auto 1 group
-# Google Sheets & Gmail Automation Script
 
 ## Overview
-
-This project automates expense tracking and monthly financial reporting by integrating Google Sheets, Gmail, and Google Calendar. It helps teams manage expenses efficiently by validating input data, generating monthly reports, notifying the finance team via email, and scheduling calendar reminders.
+This is a test assignment for the junior javascript interview at auto 1 group.
+This project automates expense tracking and monthly financial reporting by integrating Google Sheets, Gmail, and Google Calendar.
 
 ## 📁 Repository Structure
 
