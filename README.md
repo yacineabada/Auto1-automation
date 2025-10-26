@@ -6,7 +6,7 @@ This project automates expense tracking and monthly financial reporting by integ
 
 ## 📁 Repository Structure
 
-### 1. `data-validation/`
+### 1. [`data-validation/`](https://github.com/yacineabada/Auto1-automation/tree/main/Data%20validation)
 
 This folder contains scripts responsible for validating entries in the Google Sheet in real-time.
 
@@ -18,7 +18,7 @@ This folder contains scripts responsible for validating entries in the Google Sh
 
 **Example:** When a user edits a row, the script automatically checks for missing fields and alerts the user if something is missing highlighting it in red.
 
-### 2. `monthly-report-and-notification/`
+### 2. [`monthly-report-and-notification/`](https://github.com/yacineabada/Auto1-automation/tree/main/Monthly%20report%20and%20Notification)
 
 This folder contains scripts for generating reports, sending notifications, and creating calendar invites.
 
